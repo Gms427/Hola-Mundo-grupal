@@ -2,5 +2,7 @@
 Ejercicio de aplicación de repositorios en grupo
 
 Giovanna
-
 Juan Andrés Leal
+Paulo
+
+
